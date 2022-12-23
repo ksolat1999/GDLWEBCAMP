@@ -1,0 +1,7 @@
+.vscode/
+node_modules/
+includes/paypal/
+js/
+.DS_Store
+.env
+VideosFondo.zip
