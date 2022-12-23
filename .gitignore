@@ -2,6 +2,7 @@
 node_modules/
 includes/paypal/
 js/
+video/
 .DS_Store
 .env
 VideosFondo.zip
